@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/in/AndTV.in.png", &Tv HD
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Disney Channel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://openboxv8s.com/india/sony-sab-tv-in.png", Sony Sab HD
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/1d46d65e45f797e390b76111f3baeb73.png", Ten 3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/933d58fa6fad8268e44abd9d27d6a0ea.png", Sony TV HD
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/d2dabfb76fd7f7df874e5dd34bd901da.png", Zee Cinema
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://openboxv8s.com/india/colors-in.png", Colors HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nick HD
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/343056ab40edfcb2eaf2b4ba28cb9d70.png", Ten 1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/6b35edd43fa30eb56d7843dcf92bf2df.png", Ten 2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/fdbabdc0b8549879d56f4ca542ede64d.png", Sony Six HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://tvstar.live:8880/chimg/3692339134.png", Hungama
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/c4432a852c4523ad72a29495642aed6c.png", Cartoon Network
+http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/abc2f7fa71498ed0cce641b7ba79f9a1.png", Nick Hindi
+http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://tvstar.live:8880/chimg/9652335896.png", Pogo
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/41978003fdad5e3db0b75c8cb7a423b2.png", Sonic
+http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/0a589cba4673f0fdf4fa379105aa5bd4.png", Star Sports 1 HD
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/eb417124886424e6cfe9fbc07b5a098d.png", Colors Marathi HD
+http://192.168.0.125:3500/getm3u8/755/Colors_Marathi_HD/yes
+#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/02618e0d4ed81885f99a69d821ae0ba8.png", Zee Marathi HD
+http://dream8k.pro:80/rashid/rashid/164435
+#EXTINF:0 type="stream" channelId="-1" logo="http://tvstar.live:8880/chimg/9245444239.png", Sony Marathi HD
+http://192.168.0.125:3500/getm3u8/1146/Sony_Marathi_SD/no
+#EXTINF:0 type="stream" channelId="-1" logo="http://openboxv8s.com/india/star_pravah.png", Star Pravah HD
+http://iptv.tezz.cf:8880/live/865556/102404/179356.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://openboxv8s.com/india/zee-talkies-in.png", Zee Talkies
+http://192.168.0.125:3500/getm3u8/153/Zee_Talkies/no
+#EXTINF:0 type="stream" channelId="-1", Discovery Channel
+https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNBC
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1", History Tv18
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
