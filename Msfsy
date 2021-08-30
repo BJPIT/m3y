@@ -34,18 +34,18 @@ http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/0a589cba4673f0fdf4fa379105aa5bd4.png", Star Sports 1 HD
 http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/eb417124886424e6cfe9fbc07b5a098d.png", Colors Marathi HD
-http://192.168.0.125:3500/getm3u8/755/Colors_Marathi_HD/yes
+https://tvstream.space/jtv/jeOxxottv.php?c=Colors_Marathi_HD&q=1200&e=.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/02618e0d4ed81885f99a69d821ae0ba8.png", Zee Marathi HD
 http://dream8k.pro:80/rashid/rashid/164435
 #EXTINF:0 type="stream" channelId="-1" logo="http://tvstar.live:8880/chimg/9245444239.png", Sony Marathi HD
-http://192.168.0.125:3500/getm3u8/1146/Sony_Marathi_SD/no
+https://tvstream.space/jtv/jeOxxottv.php?c=Sony_Marathi_SD&q=1200&e=.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://openboxv8s.com/india/star_pravah.png", Star Pravah HD
 http://iptv.tezz.cf:8880/live/865556/102404/179356.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://openboxv8s.com/india/zee-talkies-in.png", Zee Talkies
-http://192.168.0.125:3500/getm3u8/153/Zee_Talkies/no
+https://tvstream.space/jtv/jeOxxottv.php?c=Zee_Talkies&q=1200&e=.m3u8
 #EXTINF:0 type="stream" channelId="-1", Discovery Channel
 https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNBC
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1", History Tv18
-http://ottactive.cx:80/A6C3812C3F36/099535D27732/72200
+https://tvstream.space/jtv/jeOxxottv.php?c=History_18_Hindi&q=1200&e=.m3u8
