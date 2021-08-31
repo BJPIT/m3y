@@ -49,3 +49,5 @@ https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1", History Tv18
 https://tvstream.space/jtv/jeOxxottv.php?c=History_18_Hindi&q=1200&e=.m3u8
+#EXTINF:0 type="stream" channelId="-1", Animax
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
