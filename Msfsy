@@ -33,9 +33,8 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/0a589cba4673f0fdf4fa379105aa5bd4.png", Star Sports 1 HD
 http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/eb417124886424e6cfe9fbc07b5a098d.png", Colors Marathi HD
-https://tvstream.space/jtv/jeOxxottv.php?c=Colors_Marathi_HD&q=1200&e=.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png", Colors Marathi HD
+https://tvstream.space/jtv/hahaha.php?c=Colors_Marathi_HD&q=1200&e=junk.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/02618e0d4ed81885f99a69d821ae0ba8.png", Zee Marathi HD
 http://dream8k.pro:80/rashid/rashid/164435
-#EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/02618e0d4ed81885f99a69d821ae0ba8.png", Zee Talkies HD
-https://z5ams.akamaized.net/ztalkieshd/index.m3u8?hdnts=st=1630488938~exp=1630491938~acl=/*~hmac=128af5dd2b55b0fee3678c1b5868675f0bf823d4245a30c8a3bca216d9083e36
+#
