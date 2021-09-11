@@ -37,4 +37,7 @@ http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/KH_HIN_HUNGAMA/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/02618e0d4ed81885f99a69d821ae0ba8.png", Zee Marathi HD
 http://dream8k.pro:80/rashid/rashid/164435
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/in/StarSportsSelect1.in.png", Star Sports Select 1 HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/in/StarSports2.in.png", Star Sports 2 HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8?token=test
