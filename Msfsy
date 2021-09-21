@@ -37,43 +37,4 @@ http://dxla2.gcdn.co/WC30630/tracks-v1a1/index.m3u8?telegram=@sportsavilable
 http://89.187.182.181:9090/KH_HIN_HUNGAMA/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/02618e0d4ed81885f99a69d821ae0ba8.png", Zee Marathi HD
 http://dream8k.pro:80/rashid/rashid/164435
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/in/StarSportsSelect1.in.png", Star Sports Select 1 HD
-http://143.244.60.10/SPORTS__STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/in/StarSports2.in.png", Star Sports 2 HD
-http://143.244.60.10/SPORTS__STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="AAJ TAK HD" tvg-logo="https://1.bp.blogspot.com/-IAStdDQeMlM/YOwWnTAWiwI/AAAAAAAAAXs/tdBkaDx-PNIItP-63cyog5YabqBjjOBfACLcBGAsYHQ/s200/AT-New-Logo-800x600.png" group-title="News",AAJ TAK HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-Co8iOD57Xy4/YP1JsL3s00I/AAAAAAAAAnI/hpzmKN2BN4YjplHVKNFUdfyaY396Q3FFwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg" group-title="News",CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",DD NEWS
-https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddnews
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",INDIA NEWS
-https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="News",India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="Zee.News.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="News",Zee News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="News",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="News",News 18 Hindi
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",News 18 Rajasthan
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Republic_Bharat.jpg/revision/latest?cb=20181127101931" group-title="News",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="News",Republic TV
-https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ch-id="WION (IN)" tvg-logo="https://1.bp.blogspot.com/-zhLWeHSVJg4/YQfb9ICkHsI/AAAAAAAAAyc/G9DmQdbQ9UcGKfleMsZ_XIeKIGl5DmAMgCLcBGAsYHQ/s200/1200px-WION_news_Logo.svg.png"  group-title="News",WION (IN)
-https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png"" group-title="News",Times Now HD
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="https://static.epg.best/in/NewsNation.in.png" group-title="News",NEWS NATION
-https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_480p/index.m3u8
+
