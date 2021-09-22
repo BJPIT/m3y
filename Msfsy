@@ -32,7 +32,7 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/41978003fdad5e3db0b75c8cb7a423b2.png", Sonic
 http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/0a589cba4673f0fdf4fa379105aa5bd4.png", Star Sports 1 HD
-http://dxla2.gcdn.co/WC30630/tracks-v1a1/index.m3u8?telegram=@sportsavilable
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/YWwuvIJjWYZ91UlFzpsmbUn94Nl5w7bV7LE3ILdfCgU05Z98zg0E6PVZRPkkSAvtwbX94h12CqRBoJk6atHAXA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:0 type="stream" channelId="-1" logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png", Colors Marathi HD
 http://89.187.182.181:9090/KH_HIN_HUNGAMA/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/02618e0d4ed81885f99a69d821ae0ba8.png", Zee Marathi HD
