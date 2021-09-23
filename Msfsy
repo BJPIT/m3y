@@ -9,6 +9,8 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/933d58fa6fad8268e44abd9d27d6a0ea.png", Sony TV HD
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://openboxv8s.com/india/sony_max_in.png", Sony Max
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://dmtn.tv:8080/images/d2dabfb76fd7f7df874e5dd34bd901da.png", Zee Cinema
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://openboxv8s.com/india/colors-in.png", Colors HD
